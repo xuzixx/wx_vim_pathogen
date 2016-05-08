@@ -13,7 +13,7 @@ wx\_vim
 > > .vimrc 只需要加载pathogen
 
 ### install
-1. git clone https://github.com/xuzixx/wx\_vim.git ~/.vim
+1. git clone https://github.com/xuzixx/wx_vim_pathogen.git ~/.vim
 2. cd ~/.vim
 3. git submodule update --init --recursive
 4. mv ~/.vim/.vimrc ~/.vimrc
