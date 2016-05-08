@@ -53,7 +53,7 @@ vim-airline & vim-bufferline:<br>
     
 
 ### reference:
-[基础说明](http://www.cnblogs.com/qianxudetianxia/archive/2012/12/14/2817925.html)
-[参考项目](https://github.com/openproject/openvims)
-[使用pathogen和vundle管理插件](http://www.tuicool.com/articles/3ERJzy)
-[Vundle Vs Pathogen](http://www.rmitc.org/tutorials/2013/05/13/modern-vim-plugin-management-pathogen-vs-vundle.html)
+1. [基础说明](http://www.cnblogs.com/qianxudetianxia/archive/2012/12/14/2817925.html)
+2. [参考项目](https://github.com/openproject/openvims)
+3. [使用pathogen和vundle管理插件](http://www.tuicool.com/articles/3ERJzy)
+4. [Vundle Vs Pathogen](http://www.rmitc.org/tutorials/2013/05/13/modern-vim-plugin-management-pathogen-vs-vundle.html)
